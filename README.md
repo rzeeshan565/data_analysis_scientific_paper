@@ -9,7 +9,7 @@ This project analyzes citation patterns in IoT conference papers using Python. I
 - Git (optional, if cloning)
 
 ## Clone or Download the Repository
-
+* git@github.com:rzeeshan565/data_analysis_scientific_paper.git
 
 ## Set Up Virtual Environment
 
